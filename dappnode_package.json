@@ -17,11 +17,11 @@
     "docs": "https://github.com/flashbots/mev-boost/wiki"
   },
   "bugs": {
-    "url": "https://github.com/Nabsku/DAppNodePackage-mev-boost/issues"
+    "url": "https://github.com/janek26/DAppNodePackage-mev-boost/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nabsku/DAppNodePackage-mev-boost"
+    "url": "https://github.com/janek26/DAppNodePackage-mev-boost"
   },
   "license": "MIT",
   "requirements": {
