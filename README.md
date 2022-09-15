@@ -1,4 +1,4 @@
-# DAppNodePackage-mev-boost (prater config)
+# DAppNodePackage-mev-boost
 
 mev-boost is open source middleware run by validators to access a competitive block-building market. MEV-Boost was built by Flashbots as an implementation of proposer-builder separation (PBS) for proof-of-stake (PoS) Ethereum.
 
